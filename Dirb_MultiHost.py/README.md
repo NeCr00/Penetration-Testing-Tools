@@ -21,7 +21,8 @@ Suppose you have a file called `domains.txt` with the following contents:
 plaintext
 
 ```
-example.com test.com example.org
+example.com 
+test.com example.org
 ```
 
 You also have a wordlist file called `common.txt` with a list of common directory names.
