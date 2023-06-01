@@ -1,0 +1,12 @@
+adaudit.archirodon.net
+adirectory.archirodon.net
+e-admin.archirodon.net
+ enterpriseenrollment.archirodon.net
+enterpriseregistration.archirodon.net
+fwgr.archirodon.net
+msoid.archirodon.net
+oldhelpdesk.archirodon.net
+owaeu.archirodon.net
+rewardstest.archirodon.net
+spmat.archirodon.net
+vpneu.archirodon.net
